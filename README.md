@@ -39,7 +39,7 @@ Add the following settings in Onify.
 
 ## Limitations
 
-This Blueprint is only indexing products in a limited fashion. It only indexes one specific product catalog. We do not set any specific stock status (based on lead time information). We also need to add some actions if we want to be able to order the products :-)
+This Blueprint is only indexing products from one specific product catalog. We also not setting specific stock status. This could be done using lead time information. We also need some actions if we want to be able to order the products :-)
 
 ## Support
 
