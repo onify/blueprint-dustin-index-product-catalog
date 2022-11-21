@@ -5,7 +5,7 @@
 
 # Onify Blueprint: Index product catalog from Dustin
 
-[Dustin](https://www.dustin.se/) is the leading Nordic internet retailer of computer and electronic equipment. Many companies are buying products from Dustin and are using Dustins own portal for this. But many are looking for a way to incorporate the procurement process in their own custom portal (Onify). In this Blueprint we show how we can index product(s) catalog from Dustin. This way companies can make products available for request in the Onify portal.
+[Dustin](https://www.dustin.se/) is the leading Nordic internet retailer of computer and electronic equipment. Many nordic companies are buying products from Dustin – often using Dustin’s own portal for purchase. Now several companies are looking for a way to incorporate the Dustin procurement process in their own custom portal provided by Onify. This Blueprint shows how Onify can index products from a product catalogue from Dustin. And this way companies can make Dustin products available for request in the their own customer portal provided by Onify.
 
 ![Onify Blueprint: Index product catalog from Dustin](blueprint.jpg "Blueprint")
 
